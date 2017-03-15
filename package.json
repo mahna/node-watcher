@@ -1,0 +1,16 @@
+{
+  "name": "vakil-avl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.72.0",
+    "nai-mysql-onchange": "https://github.com/nainemom/nai-mysql-onchange"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nainemom <nainemom@gmail.com>",
+  "license": "ISC"
+}
